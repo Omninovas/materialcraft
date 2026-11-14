@@ -72,7 +72,7 @@ repository's infrastructure (xtask, automation, packaging, docking, theme) was c
 The goal is full parity with the professional node-based material workflow (the same panels,
 menus, node library, parameters, shortcuts and file conventions) with better performance, every
 feature drivable by agents, and builds for Windows, macOS, Linux, FreeBSD and the web. Read this
-file first, then [CODE_STYLE.md](CODE_STYLE.md) before editing or reviewing code, then `docs/`.
+file first, then `docs/`.
 
 ## 1. Orientation (5 minutes)
 
